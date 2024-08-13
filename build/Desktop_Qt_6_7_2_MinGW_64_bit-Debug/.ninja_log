@@ -1,0 +1,16 @@
+# ninja log v6
+25	1126	7452857413080885	Trade-I_autogen/timestamp	a3bbbd7ba5638263
+25	1126	7452857413080885	Trade-I_autogen/mocs_compilation.cpp	a3bbbd7ba5638263
+25	1126	7452857413080885	C:/Users/ledon/Documents/Trade-I/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Trade-I_autogen/timestamp	a3bbbd7ba5638263
+25	1126	7452857413080885	C:/Users/ledon/Documents/Trade-I/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Trade-I_autogen/mocs_compilation.cpp	a3bbbd7ba5638263
+1169	4776	7452857414680311	CMakeFiles/Trade-I.dir/Trade-I_autogen/mocs_compilation.cpp.obj	92762ae5f8b6c27d
+1175	4833	7452857414680311	CMakeFiles/Trade-I.dir/main.cpp.obj	12a4504144089fd4
+1181	4852	7452857414843431	CMakeFiles/Trade-I.dir/tradei_mainwindow.cpp.obj	2bd2ae15c85776ea
+4852	5286	7452857451556814	Trade-I.exe	bfa9c1d6c87ea129
+80	315	7452859064372624	Trade-I_autogen/timestamp	a3bbbd7ba5638263
+80	315	7452859064372624	Trade-I_autogen/mocs_compilation.cpp	a3bbbd7ba5638263
+80	315	7452859064372624	C:/Users/ledon/Documents/Trade-I/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Trade-I_autogen/timestamp	a3bbbd7ba5638263
+80	315	7452859064372624	C:/Users/ledon/Documents/Trade-I/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Trade-I_autogen/mocs_compilation.cpp	a3bbbd7ba5638263
+322	3314	7452859066801171	CMakeFiles/Trade-I.dir/tradei_mainwindow.cpp.obj	2bd2ae15c85776ea
+316	3338	7452859066734599	CMakeFiles/Trade-I.dir/main.cpp.obj	12a4504144089fd4
+3338	3621	7452859096888574	Trade-I.exe	bfa9c1d6c87ea129
