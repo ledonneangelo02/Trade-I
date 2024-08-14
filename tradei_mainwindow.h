@@ -2,11 +2,12 @@
 #define TRADEI_MAINWINDOW_H
 
 #include <QMainWindow>
-
+#include <QMessageBox>
+#include <QPushButton>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
-class TradeI_MainWindow;
+class Trade_I;
 }
 QT_END_NAMESPACE
 
@@ -18,7 +19,10 @@ public:
     TradeI_MainWindow(QWidget *parent = nullptr);
     ~TradeI_MainWindow();
 
+private slots:
+    void Query();
+
 private:
-    Ui::TradeI_MainWindow *ui;
+    Ui::Trade_I *ui;
 };
 #endif // TRADEI_MAINWINDOW_H

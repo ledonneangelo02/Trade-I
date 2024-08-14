@@ -143,7 +143,14 @@ C:/Users/ledon/Documents/Trade-I/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Trade
   C:/Qt/6.7.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.7.2/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMessageBox \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QPushButton \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmessagebox.h \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qpushbutton.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \

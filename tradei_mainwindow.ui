@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>TradeI_MainWindow</class>
- <widget class="QMainWindow" name="TradeI_MainWindow">
+ <class>Trade_I</class>
+ <widget class="QMainWindow" name="Trade_I">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
+    <width>1061</width>
     <height>600</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>TradeI_MainWindow</string>
+   <string>Trade-I Algorithmic Trader</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="Hello_World">
+   <widget class="QPushButton" name="QueryButton">
     <property name="geometry">
      <rect>
-      <x>70</x>
-      <y>60</y>
-      <width>83</width>
-      <height>29</height>
+      <x>50</x>
+      <y>480</y>
+      <width>91</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="text">
-     <string>Hello World</string>
+     <string>Query</string>
     </property>
    </widget>
   </widget>
@@ -33,16 +33,22 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>1061</width>
      <height>25</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuHello_World">
+   <widget class="QMenu" name="MenuTrade_I">
     <property name="title">
-     <string>Hello World</string>
+     <string>Account Overview</string>
     </property>
    </widget>
-   <addaction name="menuHello_World"/>
+   <widget class="QMenu" name="menuTicker_Listing">
+    <property name="title">
+     <string>Ticker Listing</string>
+    </property>
+   </widget>
+   <addaction name="MenuTrade_I"/>
+   <addaction name="menuTicker_Listing"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
