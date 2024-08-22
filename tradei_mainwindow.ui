@@ -27,6 +27,16 @@
      <string>Query</string>
     </property>
    </widget>
+   <widget class="QTextEdit" name="TickerEdit">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>360</y>
+      <width>271</width>
+      <height>91</height>
+     </rect>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">

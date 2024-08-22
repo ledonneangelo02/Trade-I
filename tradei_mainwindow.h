@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <QMessageBox>
 #include <QPushButton>
+#include <QTextEdit>
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -11,8 +13,9 @@ class Trade_I;
 }
 QT_END_NAMESPACE
 
-class TradeI_MainWindow : public QMainWindow
-{
+
+class TradeI_MainWindow : public QMainWindow{
+
     Q_OBJECT
 
 public:
@@ -20,7 +23,7 @@ public:
     ~TradeI_MainWindow();
 
 private slots:
-    void Query();
+    void Query(QString);
 
 private:
     Ui::Trade_I *ui;
